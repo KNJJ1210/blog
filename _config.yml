@@ -1,0 +1,28 @@
+title: My Awesome Blog
+description: A blog about technology, life, and everything in between
+url: "https://yourusername.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Author info
+author:
+  name: Your Name
+  email: your.email@example.com
+
+# Social links (optional)
+github_username: yourusername
+twitter_username: yourtwitter
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Exclude files from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
