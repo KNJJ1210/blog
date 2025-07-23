@@ -2,7 +2,7 @@ title: My Awesome Blog
 description: A blog about technology, life, and everything in between
 url: "https://yourusername.github.io"
 baseurl: ""
-
+remote_theme: daattali/beautiful-jekyll
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -26,5 +26,3 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
-
-remote_theme: daattali/beautiful-jekyll
