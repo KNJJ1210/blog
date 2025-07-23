@@ -26,3 +26,5 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+
+remote_theme: daattali/beautiful-jekyll
